@@ -8,7 +8,7 @@ Computer Science and Software Engineering MEng graduate from the University of B
 
 ## Scrimba learning
 
-**[Scrimba Projects](https://github.com/SupremeK41/scrimba-projects)** — course projects collected in one repository, including Business Card and Hometown. Guided learning is documented separately from independent practice.
+**[Scrimba Projects](https://github.com/SupremeK41/scrimba-projects)** — course projects collected in one repository, including Business Card, Hometown, Password Generator and Basketball Scoreboard. Guided learning is documented separately from independent practice.
 
 ## Code Challenges
 
